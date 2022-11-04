@@ -1,0 +1,42 @@
+{
+    "name": "Cafetaria",
+    "short_name": "Cafetaria",
+    "description": "Submission 2",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#06283D",
+    "theme_color": "#47B5FF",
+    "icons": [{
+            "src": "/logo/logo-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo/logo-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo/logo-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo/logo-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo/logo-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+            
+        },
+        {
+            "src": "/logo/logo-310x310.png",
+            "sizes": "310x310",
+            "type": "image/png"
+            
+        }
+    ]
+}
