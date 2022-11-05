@@ -92,6 +92,7 @@ nav a {
     text-decoration: none;
     margin-right: 30px;
     font-size: 20px;
+    padding: 10px 16px;
 }
 
 .nav-menu ul li a:hover {
@@ -187,6 +188,7 @@ nav a {
     color: #000000;
     font-weight: bold;
     margin-left: 20px;
+    padding: 10px 16px;
 }
 .content-title a:hover {
     color: #06283D;
@@ -336,4 +338,15 @@ footer {
     background-color: #06283D;
     text-align: center;
     font-size: 15px;
+}
+.swal-modal {
+    width: 350px;
+}
+.swal-button {
+    padding: 15px 29px;
+    background-color: #db0000;
+}
+
+.swal-button:not([disabled]):hover {
+    background-color: #ff0000;
 }
